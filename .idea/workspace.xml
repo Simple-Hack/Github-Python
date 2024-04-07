@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34417f63-4e3d-42d3-8686-ebab1cf0211e" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/VsFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C/4-6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/1--9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/3-20.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/LaLaLaLa2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/Man.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/h.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/haha.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/head.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/哈希.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/复制文件.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/瞎几把算最小点对问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/跨平台.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/遍历Linux.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPP/遍历Windows.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.vs/Python/FileContentIndex/dd339b81-fa6c-4500-a29a-223bef900b9e.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.vs/Python/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/3-29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/666.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/6666.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Python.pyproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/数据结构课程设计.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/未知bug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/瞎JB算最接近点对问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_exe_file/1--9.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_exe_file/11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_exe_file/LaLaLaLa2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_exe_file/Man.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_exe_file/haha.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_exe_file/遍历.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ekoe3i7fUdjJeepgArYh9O7Avo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6666.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code-Space/VsFile&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="34417f63-4e3d-42d3-8686-ebab1cf0211e" name="更改" comment="" />
+      <created>1712458028886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712458028886</updated>
+      <workItem from="1712458030552" duration="41000" />
+      <workItem from="1712458077482" duration="1047000" />
+      <workItem from="1712468820474" duration="155000" />
+      <workItem from="1712480434666" duration="85000" />
+      <workItem from="1712480525716" duration="16000" />
+      <workItem from="1712491327601" duration="96000" />
+      <workItem from="1712491735536" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VsFile$3.coverage" NAME="3 Coverage Results" MODIFIED="1712491417005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/VsFile$6666.coverage" NAME="6666 覆盖结果" MODIFIED="1712458126420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+  </component>
+</project>
