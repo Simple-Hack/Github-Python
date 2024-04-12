@@ -5,52 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34417f63-4e3d-42d3-8686-ebab1cf0211e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/VsFile.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C/4-6.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/1--9.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/11.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/3-20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/LaLaLaLa2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/Man.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/h.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/haha.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/head.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/tempCodeRunnerFile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/哈希.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/复制文件.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/瞎几把算最小点对问题.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/跨平台.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/遍历Linux.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CPP/遍历Windows.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/.vs/Python/FileContentIndex/dd339b81-fa6c-4500-a29a-223bef900b9e.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/.vs/Python/v17/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/3-29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/666.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/6666.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Python.pyproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/tempCodeRunnerFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/数据结构课程设计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/未知bug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/瞎JB算最接近点对问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_exe_file/1--9.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_exe_file/11.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_exe_file/LaLaLaLa2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_exe_file/Man.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_exe_file/haha.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_exe_file/遍历.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课程设计大概提纲.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/课程设计.py" beforeDir="false" afterPath="$PROJECT_DIR$/课程设计.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,22 +29,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6666.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Rebasing main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code-Space/VsFile&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.3.executor": "Run",
+    "Python.6666.executor": "Run",
+    "Python.课程设计.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/大学/大二下/数据结构课程设计/node2vec-master-jupyter",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,6 +71,11 @@
       <workItem from="1712480525716" duration="16000" />
       <workItem from="1712491327601" duration="96000" />
       <workItem from="1712491735536" duration="4000" />
+      <workItem from="1712500196622" duration="986000" />
+      <workItem from="1712501196677" duration="50000" />
+      <workItem from="1712623719720" duration="699000" />
+      <workItem from="1712652666263" duration="80000" />
+      <workItem from="1712708268078" duration="53000" />
     </task>
     <servers />
   </component>
@@ -126,6 +94,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VsFile$.coverage" NAME="课程设计 覆盖结果" MODIFIED="1712652739500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VsFile$3.coverage" NAME="3 Coverage Results" MODIFIED="1712491417005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/VsFile$6666.coverage" NAME="6666 覆盖结果" MODIFIED="1712458126420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
   </component>
